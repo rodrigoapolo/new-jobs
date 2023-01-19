@@ -40,3 +40,11 @@ As instruções abaixo ir ajudar a roda o projeto. Para isso, siga o passo-a-pas
 * Melhorar a interface do projeto.
 * Criar um chat.
 * Mostra as vagas em um mapa.
+
+
+linkedin
+[Projeto: New Jobs!]
+Objetivo do projeto era criar um sistema web, que permitirá que empresas presentes em comunidades possam se cadastrar e divulgar suas vagas de emprego pela plataforma, além de poderem acompanhar o processo de candidatura nas vagas divulgadas. E os usuários poderão se cadastrar e buscar por vagas de emprego por meio de pesquisas e filtros diretamente no site, e o usuário também terá acesso ao perfil onde poderá cadastrar suas informações.
+
+Tecnologias utilizadas: PHP, SQL, Estrutura de Dados, HTML, CSS, MVC, API, POO.[Projeto: New Jobs!] Objetivo do projeto era criar um sistema web, que permitirá que empresas presentes em comunidades possam se cadastrar e divulgar suas vagas de emprego pela plataforma, além de poderem acompanhar o processo de candidatura nas vagas divulgadas. E os usuários poderão se cadastrar e buscar por vagas de emprego por meio de pesquisas e filtros diretamente no site, e o usuário também terá acesso ao perfil onde poderá cadastrar suas informações. Tecnologias utilizadas: PHP, SQL, Estrutura de Dados, HTML, CSS, MVC, API, POO.
+Competências: Resolução de problemas · Banco de dados · Estruturas de dados · Programação orientada a objetos (POO) · PHP · MVC · DAO · XAMPP · MySQL · API REST · HTML5 · SQL · CSS
